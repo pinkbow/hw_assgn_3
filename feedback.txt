@@ -1,0 +1,20 @@
+Use floats or inline-block in your CSS to achieve a two-column layout
+ - Good!
+Use the correct Open Sans Google Font typeface to style the text denoted in the design file and according to the JPEG provided
+ - Good!
+Use proper filename conventions (lowercase, .html)
+ - Good!
+Use an external CSS stylesheet to style your page
+ - Good!
+Make sure that all images are no wider than their containers
+ - Good!
+Add a hover effect to all the links using pseudo-classes
+ - Looks like you missed this one. See additional comments.
+Integrate drop caps using pseudo-classes
+ - Good!
+
+Additional Comments:
+
+- Great job! You're really getting the hang of this. Good attention to detail in terms of spacing, sizes, and colors. Your HTML is well formatted and your CSS class and ID names are consistant and descriptive.
+
+- You can use pseudo classes to apply state-specific styling to elements. These are things like "a:hover" to create a style for anchor tags only when the user puts their mouse over the link, or "a:visited" to create a style only for links that have been visited by the user.
